@@ -1,0 +1,1 @@
+This unit is to calculate URLs for the OpenStreetMap Project's TileServer, and other useful utilities as may be needed.  If you want to use OpenStreetMap in your pascal programs, then this is for you.
